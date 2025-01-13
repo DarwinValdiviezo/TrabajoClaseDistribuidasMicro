@@ -1,4 +1,10 @@
-# Trabajo Clase Distribuidas - Microcursos
+# Trabajo Clase Distribuidas - RECLAMOS
+
+## 🛠️ Importante
+
+Este Trabajo esta desarrollado sobre RECLAMOS no sobre cursos, se uso la estructura de cursos por errores en maven y jar.
+
+---
 
 Este proyecto es una API REST desarrollada con **Spring Boot**, diseñada para gestionar un sistema de reclamos. A continuación, se describen los pasos detallados para clonar, configurar y ejecutar el proyecto en tu entorno local.
 
@@ -105,5 +111,3 @@ http://localhost:8005/api/reclamo
 ```
 
 -Asegúrate de que las respuestas sean correctas y ajusta los parámetros según sea necesario.
-
-📖 Notas adicionales
